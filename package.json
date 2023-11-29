@@ -4,9 +4,12 @@
   "description": "Landing Page Jorge Romero",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d src"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Jorge Romero - <jorirovi@icloud.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.1.0"
+  }
 }
