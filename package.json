@@ -6,6 +6,10 @@
   "scripts": {
     "deploy": "gh-pages -d src"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorirovi/landingJromero.git"
+  },
   "keywords": [],
   "author": "Jorge Romero - <jorirovi@icloud.com>",
   "license": "ISC",
